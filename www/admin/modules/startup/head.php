@@ -1,0 +1,1 @@
+<link href="/admin/tmp/vendor/dropzone/dist/dropzone.css" rel="stylesheet">
