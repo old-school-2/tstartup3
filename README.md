@@ -5,7 +5,7 @@
 
 Видео презентация
 
-https://www.youtube.com/watch?v=_H-Bw78-2Qw&feature=youtu.be
+https://www.youtube.com/watch?v=S7pWcRp0Fw4&feature=youtu.be
 
 Особенность проекта в следующем:
 
